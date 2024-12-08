@@ -37,23 +37,23 @@
                         </div>
                     
                         <div>
-                            <label for="email"class="block text-gray-700">Category</label>
+                            <label for="category"class="block text-gray-700">Category</label>
                             <input type="text" id="category" name="category" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
                         </div>
                         <div>
-                            <label for="phone"class="block text-gray-700">Price</label>
+                            <label for="price"class="block text-gray-700">Price</label>
                             <input type="number" id="price" name="price" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
                         </div>
                         <div>
-                            <label for="address"class="block text-gray-700">Stock Quantity</label>
+                            <label for="stock_quantity"class="block text-gray-700">Stock Quantity</label>
                             <input type="number" id="stock_quantity" name="stock_quantity" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
                         </div>
                         <div>
-                            <label for="address"class="block text-gray-700">Description</label>
+                            <label for="description"class="block text-gray-700">Description</label>
                             <input type="text" id="description" name="description" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
                         </div>
                         <div>
-                            <label for="address"class="block text-gray-700">Manufacturer</label>
+                            <label for="manufacturer"class="block text-gray-700">Manufacturer</label>
                             <input type="text" id="manufacturer" name="manufacturer" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
                         </div>
                     </div>

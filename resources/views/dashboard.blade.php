@@ -32,7 +32,7 @@
                     @csrf
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <div>
-                            <label for="name"class="block text-gray-700">Product Name</label>
+                            <label for="product_name"class="block text-gray-700">Product Name</label>
                             <input type="text" id="product_name" name="product_name" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
                         </div>
                     
